@@ -1,0 +1,8 @@
+int x; /* un commentaire
+   sur deux lignes */ int y;
+/* autre */ z = 1; /* fin */
+
+
+int x;/* debut 
+milieu 
+fin */ int y;
